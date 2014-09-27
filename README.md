@@ -5,6 +5,7 @@ Consider Share prices for a N number of companies given for each month since yea
 Format of the file is as below with first line as header.
  
 Year,Month,Company A, Company B,Company C, .............Company N
+
 1990, Jan, 10, 15, 20, , ..........,50
 1990, Feb, 10, 15, 20, , ..........,50
 .
@@ -15,3 +16,10 @@ Year,Month,Company A, Company B,Company C, .............Company N
  
 
 a) List for each Company year and month in which the share price was highest.  
+
+
+
+File structure:
+MaxShare.py - python module containing the code to sove the problem
+test_case.py - python module to create random input CSV for Unit Test
+test_shares_data.csv - sample input CSV file 
