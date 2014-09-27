@@ -27,7 +27,7 @@ a) List for each Company year and month in which the share price was highest.
 
 File structure:
 
-MaxShare.py - python module containing the code to sove the problem
+MaxShare.py - python module containing the code to solve the problem
 
 test_case.py - python module to create random input CSV for Unit Test
 
