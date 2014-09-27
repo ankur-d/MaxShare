@@ -68,4 +68,4 @@ def get_max_share_price(filePath=None):
 
 
 if __name__ == "__main__":
-    get_max_share_price("/Users/Boston/Desktop/MaxShare/test_shares_data.csv")
+    get_max_share_price()
